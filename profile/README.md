@@ -22,7 +22,7 @@ No matter where you are, there's a place for you here.
 ## 🤝 The Community Experience
 
 ### Big/Little Mentorship
-Every member gets paired with an upperclassman mentor who:
+Every member gets paired with a mentor who:
 - Reviews your code and guides your projects
 - Helps you prep for interviews (we do mocks!)
 - Gives honest advice about courses and career paths
@@ -33,38 +33,6 @@ Every member gets paired with an upperclassman mentor who:
 - **Weekly Study Sessions**: Debug together, learn together, celebrate together
 - **Classes & Workshops**: Small groups (10-20) learning topics MSU doesn't cover
 - **The Devvys**: Annual showcase where you present your work to recruiters and professors
-
-### The Vibe
-We're not about competition or gatekeeping. We share opportunities, help each other succeed, and genuinely enjoy hanging out. Think less "networking event" and more "your CS friends who happen to be really helpful." ✨
-
----
-
-## 💡 What You Get
-
-✅ **Real project experience** that makes your resume stand out
-✅ **$50 in Claude API credits** to build AI-powered projects
-✅ **1-on-1 mentorship** from someone who's been where you are
-✅ **Interview prep** (LeetCode sessions, mock interviews, system design)
-✅ **A community** that supports you through the tough parts
-✅ **Opportunities** to attend hackathons and conferences on our dime
-
----
-
-## 🎓 Our Philosophy
-
-**Learning by Building** → Every class includes shipping a real project
-**Community Over Competition** → We rise together or not at all
-**Support Through Failures** → Post-interview debriefs, 2am debugging help, we're here
-**Continuous Growth** → From first line of code to first job offer and beyond
-
----
-
-## 🌟 Join Us
-
-Ready to spread the joy of CS?
-
-[![Instagram](https://img.shields.io/badge/Instagram-@claudemsu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/claudemsu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Claude%20Builder%20Club-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/claude-builder-club-michigan-state/)
 
 ---
 
